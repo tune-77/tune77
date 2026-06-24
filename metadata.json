@@ -1,0 +1,6 @@
+{
+  "name": "リースファイナンス支援エージェント",
+  "description": "日本の中小企業に特化したリースファイナンス専門のAIエージェントです。リース取引診断、シミュレーション、財務・税制アドバイスを提供します。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
